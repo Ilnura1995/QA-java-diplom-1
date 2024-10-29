@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 
-public class firTestsBun {
+public class TestsBun {
         @Test
         public void getNameIsCorrect() {
             String bunName = "TestBun";
